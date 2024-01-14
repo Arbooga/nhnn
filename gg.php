@@ -1,6 +1,6 @@
 <?php
 $servername = "localt";
-$username = "usename";
+$username = "usenam";
 $password = "passwords";
 
 // Create connection
