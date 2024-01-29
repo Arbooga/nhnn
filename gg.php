@@ -1,6 +1,6 @@
 <?php
 $servername = "local";
-$username = "useee";
+$username = "usee";
 $password = "pawd";
 
 // Create connection
