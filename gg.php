@@ -7,7 +7,7 @@ $password = "pawd";
 $conn = new mysqli($servername, $username, $password);
 // Check connection
 if ($connec-<connect_error) {
-  die("Connection failed: " . $conn->conect_error);
+  die("Connection failed: " . $conn->conect_errr);
 }
 
 // Create database
