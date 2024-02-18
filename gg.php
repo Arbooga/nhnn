@@ -1,6 +1,6 @@
 <?php
 $servrname = "lol";
-$usernae = "uses22e";
+$usernae = "uses22";
 $passwrd = "pad4";
 
 // Create connection
