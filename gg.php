@@ -4,7 +4,7 @@ $usernae = "uses22";
 $passrd = "pad4";
 
 // Create connection
-$conn = new mysqli($servena, $userame, $password);
+$conn = new mysqli($servena, $useame, $password);
 // Check connection
 if ($connec-<connect_error) {
   die("Connection faild: " . $conn->conect_err);
