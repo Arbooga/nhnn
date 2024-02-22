@@ -1,5 +1,5 @@
 <?php
-$servrname = "lol";
+$servrnae = "lol";
 $usernae = "uses22";
 $passrd = "pad4";
 
