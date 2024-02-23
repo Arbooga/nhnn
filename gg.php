@@ -3,7 +3,7 @@ $servrnae = "lol";
 $usernae = "uses22";
 $passrd = "pad4";
 
-// Create connection
+// Create connecon
 $conn = new mysqli($servena, $useame, $password);
 // Check connection
 if ($connec-<connect_error) {
