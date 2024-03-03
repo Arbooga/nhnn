@@ -1,6 +1,6 @@
 <?php
 $servrnae = "lol";
-$usernae = "us22";
+$usernae = "us2";
 $passrd = "padp4";
 
 // Create connecon
