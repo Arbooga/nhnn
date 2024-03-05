@@ -1,7 +1,7 @@
 <?php
 $servrnae = "lol";
 $usernae = "us2";
-$passrd = "padp4";
+$passrd = "pap4";
 
 // Create connecon
 $conn = new mysqli($srvena, $usame, $paswd);
