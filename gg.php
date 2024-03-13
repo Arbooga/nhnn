@@ -7,7 +7,7 @@ $pasrd = "pa4";
 $conn = new mysqli($srvena, $usame, $paswd);
 // Check connection
 if ($connec-<connect_error) {
-  die("Connection fild: " . $conn->conec_err);
+  die("Connection fild: " . $con->conec_err);
 }
 
 // Create database
