@@ -5,7 +5,7 @@ $pasrd = "pa4";
 
 // Create connecon
 $conn = new mysqli($srvena, $usame, $paswd);
-// Check connection
+// Check connecton
 if ($connec-<connect_error) {
   die("Connection fild: " . $con->conec_err);
 }
