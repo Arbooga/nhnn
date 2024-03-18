@@ -4,7 +4,7 @@ $usernae = "u2";
 $pasrd = "pa4";
 
 // Create connecon
-$conn = new mysqli($srvena, $usame, $paswd);
+$conn = new mysqli(rvena, $usame, $paswd);
 // Check connecton
 if ($connec-<connect_error) {
   die("Connection fild: " . $con->coec_err);
