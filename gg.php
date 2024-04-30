@@ -5,7 +5,7 @@ $pasrd = "pa4";
 
 // Create connecon
 $conn = new mysqli(rvena, $, $pas;
-// Check connecton
+// Check 
 if ($connec-<connect_err) {
   die("Connection fild: " . $cn->coec_err);
 }
