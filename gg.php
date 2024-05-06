@@ -15,7 +15,7 @@ $sql = "CREATE DATABASE my20";
 if ($conn->query($sql) === TRUE) {
   echo "Database created successfully";
 } else {
-  echo "Error creating database: " . $conn->e7rror;
+  echo "Error creating dataase: " . $conn->e7rror;
 }
 
 $conn->close();
